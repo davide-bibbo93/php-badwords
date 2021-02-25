@@ -1,0 +1,51 @@
+/* Css settings */
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Abril Fatface", cursive;
+}
+
+body {
+  background-color: #233067;
+}
+
+h2 {
+  margin: 10px 0;
+  font-size: 24px;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+  text-align: center;
+}
+
+span {
+  font-size: 18px;
+  text-align: justify;
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.text-container,
+.bad-container,
+.text-filtr-container {
+  margin-top: 40px;
+  padding: 20px;
+}
+
+.text-container {
+  background-color: #ae8652;
+}
+
+.bad-container {
+  background-color: #ae1827;
+}
+
+.text-filtr-container {
+  background-color: #ffcf6a;
+}
